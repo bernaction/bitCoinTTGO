@@ -22,4 +22,4 @@
 ### Shopping list:
 Part|Price|Qtd.|Url
 ---|---|---|---
-LILYGO T-Display ESP32-S3 ||1|[https://nl.banggood.com/TTGO-T-Display-ESP32-CP2104-CH340K-CH9102F-WiFi-bluetooth-Module-1_14-Inch-LCD-Development-Board-LILYGO-for-Arduino-products-that-work-with-official-Arduino-boards-p-1522925.html](https://www.bernacripto.com.br/nerdminer.html)https://www.bernacripto.com.br/nerdminer.html
+LILYGO T-Display ESP32-S3 ||1|https://www.bernacripto.com.br/nerdminer.html
