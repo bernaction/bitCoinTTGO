@@ -22,4 +22,4 @@
 ### Shopping list:
 Part|Price|Qtd.|Url
 ---|---|---|---
-TTGO T-Display V1.0 ESP32 |€ 13.4|1|https://nl.banggood.com/TTGO-T-Display-ESP32-CP2104-CH340K-CH9102F-WiFi-bluetooth-Module-1_14-Inch-LCD-Development-Board-LILYGO-for-Arduino-products-that-work-with-official-Arduino-boards-p-1522925.html
+LILYGO T-Display ESP32-S3 ||1|[https://nl.banggood.com/TTGO-T-Display-ESP32-CP2104-CH340K-CH9102F-WiFi-bluetooth-Module-1_14-Inch-LCD-Development-Board-LILYGO-for-Arduino-products-that-work-with-official-Arduino-boards-p-1522925.html](https://www.bernacripto.com.br/nerdminer.html)https://www.bernacripto.com.br/nerdminer.html
